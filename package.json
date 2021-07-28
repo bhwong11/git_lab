@@ -1,0 +1,20 @@
+{
+  "name": "git_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhwong11/git_lab.git"
+  },
+  "author": "Bryant & Leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhwong11/git_lab/issues"
+  },
+  "homepage": "https://github.com/bhwong11/git_lab#readme"
+}
