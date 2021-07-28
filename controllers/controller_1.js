@@ -12,6 +12,7 @@ router.get("/", (req, res, next) => {
     res.send("Hello form products index page!");
 });
 
+
 router.get("/elNombre", (req, res, next) => {
     res.send("Just gonna watch and get credit doods");
 });
